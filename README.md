@@ -1,6 +1,7 @@
 # Pentagon-Policy-Editor-
-**EOL (End Of Life, will now longer be updated, repo will remain public)
-**
+
+***EOL (End Of Life, will now longer be updated, repo will remain public)***
+
 ChromeOS R130 and below
 
 A ChromeOS user policy editor based on Pollen Policy Editor. 
